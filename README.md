@@ -1,7 +1,7 @@
 # 2025 Restaurant Order System
 
-This repository contains a simple example of a restaurant order management
-system built with **Nest.js** and **MongoDB**.
+This repository contains a simple example of a restaurant order and event
+management system built with **Nest.js** and **MongoDB**.
 
 ## Structure
 
@@ -9,6 +9,7 @@ system built with **Nest.js** and **MongoDB**.
 - `src/restaurants` – manage restaurants
 - `src/tables` – manage tables and table status
 - `src/orders` – create and pay orders
+- `src/events` – create events and handle applications
 
 ## Running
 
